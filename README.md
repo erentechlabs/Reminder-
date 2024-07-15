@@ -1,16 +1,8 @@
-# reminder
 
-Reminder counter application
+# Reminder+
+An easy-to-use reminder app with a beautiful interface built with Flutter. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Image
+<img src="https://play-lh.googleusercontent.com/BAbtFVyCRdwXN55tq4LM1ZKBvNKplBbSIUB2AktKBy08zui3_uKn4fSRx6M6Rb--fMM=w526-h296-rw"> <img src="https://play-lh.googleusercontent.com/AKTz5W0sx8YWp659xfUNdQUouV6jE_gzV2SnsM2DnXQwyuh_YOMnF2qOb1GwlKUrxoY=w526-h296-rw"> <img src="https://play-lh.googleusercontent.com/tsMROvhB6luZN1rv3DHmT-h_uh-SaRnMSGLfJabCWSEY-udg-t8tvNEp55HHGqIYboc=w526-h296-rw"> <img src="https://play-lh.googleusercontent.com/mXYs4rB7uj44rnfA1K8Q93cqqD6y_403cO5jU7g3MgTQL7bVjkY636KXQb554_Oe7ig=w526-h296-rw">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
